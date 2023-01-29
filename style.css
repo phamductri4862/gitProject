@@ -3,9 +3,14 @@ body {
 }
 
 h1 {
- color: green 
+  color: green
 }
 
 p {
- color: blue 
+  color: blue
+}
+
+form {
+  margin: 20px;
+  padding: 30px;
 }
